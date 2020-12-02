@@ -1,6 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.viettelpost.mygo</groupId>
+    <groupId>io.github.sonnguyenvan9794</groupId>
     <artifactId>jxls-custom</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
@@ -17,7 +17,7 @@
         <developer>
             <name>Son Nguyen Van</name>
             <email>sonnguyenvan9794@gmail.com</email>
-            <organization>com.viettelpost.mygo</organization>
+            <organization>io.github.sonnguyenvan9794</organization>
             <organizationUrl>https://github.com/sonnguyenvan9794/jxls-custom</organizationUrl>
         </developer>
     </developers>
