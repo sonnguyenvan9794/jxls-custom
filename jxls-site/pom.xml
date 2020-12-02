@@ -49,7 +49,7 @@
                         <configuration>
                             <artifactItems>
                                 <artifactItem>
-                                    <groupId>org.jxls</groupId>
+                                    <groupId>com.viettelpost.mygo</groupId>
                                     <artifactId>jxls</artifactId>
                                     <version>${jxlsVersion}</version>
                                     <type>jar</type>
@@ -59,7 +59,7 @@
                                     <includes>**/*</includes>
                                 </artifactItem>
                                 <artifactItem>
-                                    <groupId>org.jxls</groupId>
+                                    <groupId>com.viettelpost.mygo</groupId>
                                     <artifactId>jxls-poi</artifactId>
                                     <version>${jxlsPoiVersion}</version>
                                     <type>jar</type>
@@ -69,7 +69,7 @@
                                     <includes>**/*</includes>
                                 </artifactItem>
                                 <artifactItem>
-                                    <groupId>org.jxls</groupId>
+                                    <groupId>com.viettelpost.mygo</groupId>
                                     <artifactId>jxls-reader</artifactId>
                                     <version>${jxlsReaderVersion}</version>
                                     <type>jar</type>
@@ -87,9 +87,13 @@
     </build>
 
     <distributionManagement>
-        <site>
+      <!--  <site>
             <id>jxls.sf.net</id>
             <url>scp://shell.sourceforge.net/home/project-web/jxls/htdocs</url>
+        </site>    -->
+        <site>
+            <id>https://github.com/sonnguyenvan9794/jxls-custom</id>
+            <url>https://github.com/sonnguyenvan9794/jxls-custom</url>
         </site>
     </distributionManagement>
 
