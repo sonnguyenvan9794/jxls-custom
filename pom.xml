@@ -3,7 +3,7 @@
     <groupId>io.github.sonnguyenvan9794</groupId>
     <artifactId>jxls-custom</artifactId>
     <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.1</version>
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Custom project of jxls library</description>
     <url>https://github.com/sonnguyenvan9794/jxls-custom</url>
