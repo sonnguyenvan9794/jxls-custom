@@ -158,7 +158,7 @@ jxls-2.4.7
 * fixed [issue#124 Optimizing XlsArea:findCommandsForVerticalShift recursive method](https://bitbucket.org/leonate/jxls/issues/124/optimizing-xlsarea)
 * fixed [issue#122 Wrong cell replacement](https://bitbucket.org/leonate/jxls/issues/122/wrong-cell-replacement)
 
-jxls-poi-1.0.16
+jxls-poi-1.0.06
 
 * support for Apache POI 4.0.0
 
