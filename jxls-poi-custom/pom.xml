@@ -5,7 +5,7 @@
 		<version>1.0.0</version>
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
-	<artifactId>jxls-poi</artifactId>
+	<artifactId>jxls-poi-custom</artifactId>
 	<packaging>jar</packaging>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>Apache POI based Transformer implementation for Jxls library</description>
@@ -219,7 +219,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>io.github.sonnguyenvan9794</groupId>
-			<artifactId>jxls</artifactId>
+			<artifactId>jxls-custom</artifactId>
 			<version>${project.version}</version>
 		</dependency>
 		<dependency>
