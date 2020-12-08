@@ -11,7 +11,7 @@ During the migration the following changes were made
 1. The main java package was renamed from `net.sf.jxls.reader` to `org.jxls.reader`
 2. Dependency versions of  [Apache POI](https://poi.apache.org/) and [Apache Commons](https://commons.apache.org/) were updated to the latest version
 3. [Slf4j](http://www.slf4j.org/) with [Logback](http://logback.qos.ch/) is now used for logging instead of Log4j and commons-logging 
-4. The artifact version was bumped to 2.0.0
+4. The artifact version was bumped to 1.0.0
 
 Maven dependency
 -------------

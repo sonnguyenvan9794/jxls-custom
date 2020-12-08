@@ -158,7 +158,7 @@ jxls-2.4.7
 * fixed [issue#124 Optimizing XlsArea:findCommandsForVerticalShift recursive method](https://bitbucket.org/leonate/jxls/issues/124/optimizing-xlsarea)
 * fixed [issue#122 Wrong cell replacement](https://bitbucket.org/leonate/jxls/issues/122/wrong-cell-replacement)
 
-jxls-poi-2.0.06
+jxls-poi-1.0.06
 
 * support for Apache POI 4.0.0
 
@@ -347,7 +347,7 @@ This release introduces new [Grid Command](../reference/grid_command.html) and c
 * [Free rows when 2 adjacent collections](https://bitbucket.org/leonate/jxls/issue/4/free-rows-when-2-adjacent-collections)
 
 
-v2.0.0
+v1.0.0
 ------
 First public release for Jxls-2.
 
